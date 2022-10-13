@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Server Defaults
+nsapo-now.000webhostapp.com/my_stream.m3u
 #EXTINF:-1,Default
 https://ns-aungphyooo.github.io/Dark-Matter/Category/defaluts.m3u
 #EXTINF:-1,Auto	
