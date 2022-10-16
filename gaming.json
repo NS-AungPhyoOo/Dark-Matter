@@ -2,10 +2,14 @@
 "message":"success",
 "data":[
   {
-    "title":"Title",
-    "cover":""
+    "id":"2089",
+    "title":"Laning & Rotation of Project Next",
+    "cover":"https://img.youtube.com/vi/4dknyEY0Pco/sddefault.jpg",
+    "video_url":"https://www.youtube.com/watch?v=4dknyEY0Pco&t=25s",
+    "publish_time":"2020-11-10 10:16:14",
+    "author":"Gaming Theos",
+    "look_num":"1888402"
   }
   ]
-
-
+  
 }
